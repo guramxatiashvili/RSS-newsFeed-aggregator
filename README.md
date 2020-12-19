@@ -13,7 +13,7 @@ access to the list of all users and also to the user details- admin can delete u
 or their feeds.
 
 DEMO >>>  https://feedsgkhatiashvili.herokuapp.com/
-To access admin role use -  
+To access admin role login with -  
 username: admin 
 password: admin
 
