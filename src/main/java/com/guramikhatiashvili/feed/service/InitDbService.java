@@ -47,6 +47,7 @@ public class InitDbService {
 			roleAdmin.setName("ROLE_ADMIN");
 			roleRepository.save(roleAdmin);
 
+			//init admin
 			User userAdmin = new User();
 			userAdmin.setEnabled(true);
 			userAdmin.setName("admin");

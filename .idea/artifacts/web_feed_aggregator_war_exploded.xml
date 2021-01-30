@@ -72,6 +72,9 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.0.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.0.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc-portlet:4.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: javax.xml.bind:jaxb-api:2.3.0" />
+          <element id="library" level="project" name="Maven: com.sun.xml.bind:jaxb-core:2.3.0" />
+          <element id="library" level="project" name="Maven: com.sun.xml.bind:jaxb-impl:2.3.0" />
         </element>
       </element>
       <element id="directory" name="META-INF">
